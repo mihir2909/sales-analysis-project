@@ -1,2 +1,2 @@
 # sales-analysis-project
-Data Analysis using Excel and Power BI
+Data Analysis using Google Sheets and Google Looker Studio
