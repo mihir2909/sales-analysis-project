@@ -26,5 +26,5 @@ This project helped strengthen my skills in data cleaning, trend analysis, and v
 
 ## Author
 **Mihir Patel**
-Bachelor of Business Administration
-Aspiring Data Analyst
+
+Bachelor of Business Administration| Aspiring Data Analyst
