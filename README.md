@@ -25,6 +25,6 @@ You View the interactive dashboard [here] (https://lookerstudio.google.com/embed
 This project helped strengthen my skills in data cleaning, trend analysis, and visualization using free and accessible tools. It simulates a real-world scenario of how to inform business strategy and performance review.
 
 ## Author
-**Mihir**
+**Mihir Patel**
 Bachelor of Business Administration
 Aspiring Data Analyst
